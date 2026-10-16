@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samina Amin </h1>
 
-<h3 align="center">AI & Machine Learning Researcher | PhD in Computer Science | Lecturer</h3>
+<h3 align="center">AI & Machine Learning Researcher | Lecturer</h3>
 
 <p align="center">
   Exploring Artificial Intelligence, Intelligent Systems, and Generative AI
