@@ -17,12 +17,12 @@
 
 ##  About Me
 
-- 🎓 PhD in Computer Science specializing in Artificial Intelligence.
-- 🔬 Research interests: Machine Learning, Deep Learning, and Reinforcement Learning.
-- 🤖 Exploring Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
-- 🧠 Interested in Computer Vision, Natural Language Processing, and AI-powered healthcare.
-- 📚 Lecturer and researcher passionate about teaching, research, and intelligent applications.
-- 💡 Working on research-driven AI solutions and practical software projects.
+-  PhD in Computer Science specializing in Artificial Intelligence.
+-  Research interests: Machine Learning, Deep Learning, and Reinforcement Learning.
+-  Exploring Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
+-  Interested in Computer Vision, Natural Language Processing, and AI-powered healthcare.
+-  Lecturer and researcher passionate about teaching, research, and intelligent applications.
+-  Working on research-driven AI solutions and practical software projects.
 
 ##  Research Interests
 
