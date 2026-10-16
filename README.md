@@ -39,10 +39,6 @@
 
 ###  Reinforcement Learning & Personalized Learning
 
-**1. Q-Learning for Personalized Learning Strategies**
-- Developed an AI-based Q-learning approach to support personalized learning strategies for students with disabilities.
-- **Focus:** Reinforcement Learning, Q-Learning, Personalized Education.
-- **Publication:** [STEM Education (2026)](https://scholar.google.com/scholar?q=AI-based+Q-learning+model+for+personalized+learning+strategies+for+students+with+disabilities)
 
 **2. Reinforcement Learning for Adaptive E-Learning**
 - Designed a smart e-learning framework using reinforcement learning for personalized adaptive learning and sequential learning-path recommendations.
