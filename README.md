@@ -36,7 +36,7 @@
 
 
 
-## 🚀 Featured AI Research Projects
+##  Featured AI Research Projects
 
 - **Reinforcement Learning:** Q-learning for personalized learning and RL-based adaptive e-learning.
 - **Machine Learning:** Breast cancer, diabetes, and heart disease prediction using ML and ensemble models.
@@ -45,7 +45,7 @@
 - **Recommender Systems:** Personalized course recommendations and intelligent MOOC learning paths.
 - **Explainable AI:** Interpretable student performance prediction and AI-assisted decision support.
 
-*Explore my [research publications](https://scholar.google.com/scholar?q=Samina+Amin+artificial+intelligence) for more details.*
+*Explore my [research publications] )https://scholar.google.com/citations?user=nkZsiTsAAAAJ&hl=en&authuser=1) for more details.*
 
 
 ---
