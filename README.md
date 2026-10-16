@@ -92,7 +92,7 @@
 </p>
 
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,figma,latex" alt="Git, GitHub, VS Code, Anaconda, Figma and LaTeX" />
